@@ -1,10 +1,4 @@
 # passgen
 a password generator made swith workerd
 
-## link for preview dev versions
-[dev pipeline builds](https://dev.azure.com/scaland/passgen/_build?definitionId=2)
-
-for stable releases use release from github
-the pipelines are from zure devops
-## devops project url
-[devops project](https://dev.azure.com/scaland/passgen)
+## use github releases for versionms the dev builds are oon a private azure devops projecxt and i dfont have public devops parallelism so you aint gonna get dev builds but you ca n dm me for one at @arp001 in discord
